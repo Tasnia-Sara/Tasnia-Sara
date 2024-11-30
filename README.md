@@ -16,13 +16,13 @@ I'm focused on building powerful software applications. Experienced in Python pr
   
 - 🌱 I’m currently learning **REST API**
 
-- 🧑‍🎓 I’m an Undergraduate at **B.Sc. (Hon's) in CSE**
+- 🧑‍🎓 I’m an Undergraduate at **B.Sc. (Hon's) in Public Administration**
 
 - 💬 Ask me about **Python & Django**
 
-- 📫 How to reach me **sayefahmed251@gmail.com / hikmotit@gmail.com**
+- 📫 How to reach me **saratasnia05@gmail.com**
   
-- ⚡ Fun fact **Call me as Snake**
+- ⚡ Fun fact **Call me a potato**
 
 </td>
 <td width="50%" align="center">
